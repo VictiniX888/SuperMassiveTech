@@ -6,7 +6,7 @@ import tterrag.supermassivetech.SuperMassiveTech;
 import tterrag.supermassivetech.api.common.item.IStarItem;
 import tterrag.supermassivetech.common.registry.Stars.StarTier;
 import tterrag.supermassivetech.common.util.Utils;
-import crazypants.enderio.item.darksteel.AbstractUpgrade;
+import crazypants.enderio.item.darksteel.upgrade.AbstractUpgrade;
 import crazypants.enderio.item.darksteel.ItemDarkSteelArmor;
 
 public class GravityResistUpgrade extends AbstractUpgrade
